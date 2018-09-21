@@ -2,7 +2,7 @@
 
 A simple CRUD app using React and Redux. Used [this](https://www.youtube.com/watch?v=93p3LxR9xfM) tutorial for reference.
 
-Hosted using Surge [here](lively-sun.surge.sh)
+Hosted using Surge [here](five-temper.surge.sh)
 
 API [used](https://jsonplaceholder.typicode.com/posts)
 
