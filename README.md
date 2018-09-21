@@ -4,6 +4,8 @@ A simple CRUD app using React and Redux. Used [this](https://www.youtube.com/wat
 
 Hosted using Surge [here](lively-sun.surge.sh)
 
+API [used](https://jsonplaceholder.typicode.com/posts)
+
 ## Getting Started
 1. git clone https://github.com/kcontreras01/reduxPostsApi.git
 2. cd crud-redux
