@@ -8,6 +8,6 @@ API [used](https://jsonplaceholder.typicode.com/posts)
 
 ## Getting Started
 1. git clone https://github.com/kcontreras01/reduxPostsApi.git
-2. cd crud-redux
+2. cd reactReduxPosts
 3. npm install
 4. npm start
